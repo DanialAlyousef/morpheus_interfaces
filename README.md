@@ -12,10 +12,14 @@ As a part of the SAA technical team, we're looking forward to encouraging the yo
 We used [Tikinter](https://docs.python.org/3/library/tk.html) library for Python, in order to develop the GUIs which will help the users to use a sample provided by Morpheus model team, with the ability to upload their galaxy photos to be classified, so they can see how galaxies are classified based on their shapes.
 
 users can also use the samples we provided in the [samples](https://github.com/DanialAlyousef/morpheus_interfaces/tree/5ff1b13c7e20ab39d88282e48872f413f7a66baf/samples) folder.
+
 Note: the samples folder will be updated with new samples in the future.
 
 ### User guide
 you can read the user guide file in [English](https://github.com/DanialAlyousef/morpheus_interfaces/blob/main/SSA_Morpheus_User_Guide.pdf) and [Arabic](https://github.com/DanialAlyousef/morpheus_interfaces/blob/main/SSA_Morpheus_User_Guide_AR.pdf)
+
+### Want to try it?
+You can download the repository files, and install the requirements after creating a virtual environment.
 
 ## Morpheus model
 A model for generating pixel-level morphological classifications of astronomical sources.
