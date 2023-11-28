@@ -15,7 +15,7 @@ you can use the samples we provided in the [samples](https://github.com/DanialAl
 Note: the samples folder will be updated with new samples in the future.
 
 ### User guide
-you can read the user guide file in English and Arabic
+you can read the user guide file in [English](https://github.com/DanialAlyousef/morpheus_interfaces/blob/main/SSA_Morpheus_User_Guide.pdf) and [Arabic](https://github.com/DanialAlyousef/morpheus_interfaces/blob/main/SSA_Morpheus_User_Guide_AR.pdf)
 
 ## Morpheus model
 A model for generating pixel-level morphological classifications of astronomical sources.
