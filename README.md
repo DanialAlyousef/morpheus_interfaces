@@ -1,4 +1,4 @@
-# morpheus interfaces
+# Morpheus interfaces
 GUIs developed using Tkinter to utilize [Morpheus](https://morpheus-project.github.io/morpheus/) model for morphological galaxy classification, in order to introduce AI with astronomy to high school students.
 
 ## Project Goals
@@ -8,10 +8,10 @@ the participants will learn about the galaxies and their shapes, in addition to 
 
 As a part of the SAA technical team, we're looking forward to encouraging the youth who are coming to academic study to dig into the AI world, Because we believe in what Andrew Ng said "AI is the new electricity"
 
-## about the project
+## About the project
 We used [Tikinter](https://docs.python.org/3/library/tk.html) library for Python, in order to develop the GUIs which will help the users to use a sample provided by Morpheus model team, with the ability to upload their galaxy photos to be classified, so they can see how galaxies are classified based on their shapes.
 
-you can use the samples we provided in the [samples](https://github.com/DanialAlyousef/morpheus_interfaces/tree/5ff1b13c7e20ab39d88282e48872f413f7a66baf/samples) folder.
+users can also use the samples we provided in the [samples](https://github.com/DanialAlyousef/morpheus_interfaces/tree/5ff1b13c7e20ab39d88282e48872f413f7a66baf/samples) folder.
 Note: the samples folder will be updated with new samples in the future.
 
 ### User guide
